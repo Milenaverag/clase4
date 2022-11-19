@@ -4,3 +4,4 @@ do
     counts=`bash count_baboons.sh Gesquiere2011_data $id`
     echo "ID:" $id "counts:" $counts
 done
+.
