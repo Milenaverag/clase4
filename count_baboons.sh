@@ -1,2 +1,3 @@
-cut -f 1 Gesquiere2011_data.csv |  grep -c -w  1
+cut -f 1 $1.csv | grep -c -w $2
+
 
